@@ -73,5 +73,7 @@ unduh atau buka direktori proyek menggunakan **Android Studio** (Koala / Ladybug
 4. Jalankan aplikasi pada Emulator Android atau perangkat fisik (Minimum SDK 24).
 
 ---
+## Link Video Penjelasan (YT)
+https://www.youtube.com/watch?si=IJkDX20B6Z-_C6Qj&v=m0F4T3OR-bI&feature=youtu.be
 
 *Dikembangkan untuk Tugas Responsi Pemrograman Mobile.*
