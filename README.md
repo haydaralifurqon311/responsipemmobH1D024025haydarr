@@ -14,13 +14,10 @@ Aplikasi Android berbasis **Jetpack Compose** untuk pencarian buku menggunakan *
 
 ## 📷 Screenshot Aplikasi
 
-| Home Screen (Pencarian & Daftar Buku) | Detail Screen (Informasi Buku) |
-| :-----------------------------------: | :----------------------------: |
-| *[Isi screenshot Home Screen di sini]* | *[Isi screenshot Detail Screen di sini]* |
+| Home Screen (Pencarian & Daftar Buku) |      Detail Screen (Informasi Buku)      |
+|:-------------------------------------:|:----------------------------------------:|
+| ![Home Screen](screenshots/Home.png)  | ![Detail Screen](screenshots/Detail.png) |
 
-> *Catatan: Letakkan file gambar screenshot pada folder repository (misal `/screenshot`) dan tautkan pada markdown di atas.*
-
----
 
 ## 🏗️ Arsitektur Aplikasi
 Aplikasi ini menerapkan pola arsitektur **MVVM (Model-View-ViewModel)** dengan pemisahan concern yang jelas:
@@ -77,9 +74,4 @@ unduh atau buka direktori proyek menggunakan **Android Studio** (Koala / Ladybug
 
 ---
 
-## 📥 Download APK
-Anda dapat mengunduh file instalasi APK (debug/release) melalui link berikut:
-- [🔗 Download APK Haydar Buku v1.0 *([Isi link download APK di sini])*](https://github.com/username/responsipemmobbuku/releases)
-
----
 *Dikembangkan untuk Tugas Responsi Pemrograman Mobile.*
