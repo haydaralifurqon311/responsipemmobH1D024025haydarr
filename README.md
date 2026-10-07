@@ -24,11 +24,11 @@ Aplikasi ini menerapkan pola arsitektur **MVVM (Model-View-ViewModel)** dengan p
 
 ```mermaid
 graph TD
-    A[Composable UI / Screens] -->|Observe StateFlow| B[BookViewModel]
+    A["Composable UI / Screens"] -->|Observe StateFlow| B[BookViewModel]
     B -->|Fetch Data| C[BookRepository]
     C -->|HTTP Request| D[Retrofit API Service]
     D -->|GET /search.json| E[Open Library API]
-    C -->|Parse Data| F[Model (BookDoc, SearchResponse)]
+    C -->|Parse Data| F["Model (BookDoc, SearchResponse)"]
     B -->|Expose UiState| A
 ```
 
